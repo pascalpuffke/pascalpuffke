@@ -4,7 +4,7 @@ I'm a soydev writing programs in [the best programming language, even according 
 But beware, I rarely come up with anything useful. The best I can do is a not even properly functioning discord-rpc program which displays music playing in cmus on your Discord profile. All of my other repositories are useless and/or horribly broken pieces of crap.
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning the basics of C (i hate myself)
+- 🌱 I’m currently learning the basics of Rust
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about whatever
